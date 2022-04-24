@@ -8,22 +8,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/kunjappan-PSY/justice/stargazers">
+    <img src="https://img.shields.io/github/stars/kunjappan-PSY/justice?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/kunjappan-PSY/justice/fork">
+    <img src="https://img.shields.io/github/forks/Kunjappan-PSY/justice?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![KUNJAPPAN](https://img.shields.io/badge/kunjappansupportez-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/kunjappansupportez)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![ᴋᴜɴᴊᴀᴘᴘᴀɴ](https://img.shields.io/badge/kunjappansupport-Support-red?style=flat&logo=telegram)](https://telegram.dog/kunjappansupport)  [![kunjappan](https://img.shields.io/badge/kunjappan-PSY-Website-red?style=flat&logo=CodersRank)](https://Kunjappan-PSY.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Kunjappan-PSY/justice/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kunjappan-PSY/justice)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -32,7 +32,7 @@
 ### Features
 * Nearly unlimited filters
 * Supports all type of filters(Including Alert Button Filter).
-* Can save button filters directly (Rose Bot Feature)
+* Can save button filters directly (kunjappan Bot Feature)
 * Supports multiple PM connections
 * And all other features of a Filter Bot :D
 
@@ -74,23 +74,23 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+[Click here to see tutorial video](https://youtu.be/vkkZs6t_DZo)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [kunjappansupport](https://telegram.dog/kunjappansupport) and [ᴋᴜɴᴊᴀᴘᴘᴀɴ ᴘsʏ](https://telegram.dog/hopepsycho) for the video
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [kunjappansupport](https://telegram.dog/kunjappansupport)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunjappan-PSY/justice)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
+git clone https://github.com/kunjappan-PSY/justice
+cd justice
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
@@ -101,11 +101,11 @@ python3 bot.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From my.telegram.org (or @UseTGXBot)
+* API_ID        - From my.telegram.org 
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org 
 
-* AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
+* AUTH_USERS  - ID of users that can use the bot commands. Get from [kunjappan Bot](https://telegram.dog/kunjappanpachubot) by using /id command
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
 
