@@ -21,7 +21,7 @@
 
 [![KUNJAPPAN](https://img.shields.io/badge/kunjappansupportez-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/kunjappansupportez)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![ᴋᴜɴᴊᴀᴘᴘᴀɴ](https://img.shields.io/badge/kunjappansupport-Support-red?style=flat&logo=telegram)](https://telegram.dog/kunjappansupport)  [![kunjappan](https://img.shields.io/badge/hopepsycho-Website-red?style=flat&logo=CodersRank)](https://Kunjappan-PSY.me)  
+[![ᴋᴜɴᴊᴀᴘᴘᴀɴ](https://img.shields.io/badge/kunjappansupport-Support-red?style=flat&logo=telegram)](https://telegram.dog/kunjappansupport)  [![kunjappan](https://img.shields.io/badge/hopepsycho-Website-red?style=flat&logo=CodersRank)](https://github.com/hopepsycho)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Kunjappan-PSY/justice/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kunjappan-PSY/justice)
 
