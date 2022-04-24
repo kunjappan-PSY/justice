@@ -1,16 +1,16 @@
 {
     "name": "UNLIMITED FILTER BOT",
     "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/e3ffd0efb24f779d2830c.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "Kunjappansupportez"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://hopepsycho.me",
+    "repository": "https://github.com/kunjappan-PSY/justice",
+    "success_url": "https://telegram.dog/kunjappansupportez",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
@@ -21,11 +21,11 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org ",
             "value": ""
         },
         "API_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org ",
             "value": ""
         },
         "AUTH_USERS": {
