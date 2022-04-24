@@ -21,7 +21,7 @@ from database.filters_mdb import filter_stats
 from database.users_mdb import add_user, find_user, all_users
 
 
-@trojanz.on_message(filters.command('id') & (filters.private | filters.group))
+@kunjappan.on_message(filters.command('id') & (filters.private | filters.group))
 async def showid(client, message):
     chat_type = message.chat.type
 
