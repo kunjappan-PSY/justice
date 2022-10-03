@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
+I am advanced filter bot for TamilThalaiva
 There is no practical limits for my filtering capacity :)
 
 See <i>/help</i> for commands and more details.</b>
@@ -48,13 +48,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @kunjappansupportez</b>
+<b>© @Tamil_Thalaiva_bot</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : ᴋᴜɴᴊᴀᴘᴘᴀɴ ғɪʟᴛᴇʀ ʙᴏᴛ</b>
 
-⭕️<b>Creater :</b> @kunjappansupportez    
+⭕️<b>Creater :</b> @Tamil_Thalaiva_bot</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
